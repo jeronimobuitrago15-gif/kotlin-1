@@ -9,8 +9,8 @@
  <TextView
      android:layout_width="wrap_content"
      android:layout_height="wrap_content"
-     android:background="@color/purple_500"
-     android:text="Curso de programacion con kotlin"
+     android:background="@color/purple_700"
+     android:text="tercera clase de progrmacion "
      android:textColor="@color/white"
      android:padding="16dp"
      android:layout_margin="16dp"/>
